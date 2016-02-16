@@ -8,5 +8,5 @@
 * templates with jade engine
 
 ```
-Warning!!! 'Junior-thinking' code
+Warning!!! 'Junior-thinking' code :)
 ```
