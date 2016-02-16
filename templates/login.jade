@@ -1,0 +1,14 @@
+extends layout
+
+block login_form
+	form(action="/login", method="post")
+		div
+			label Enter login
+		div
+			input(type="text", name="user", value="" placeholder="enter login")
+		div
+			label Enter password
+		div
+			input(type="password", name="password", value="" placeholder="enter password")
+		div
+			input(type="submit", value="Log in")
