@@ -1,7 +1,7 @@
 # Node.js Express.js experimental project
 
 ## Now in project implemented:
-* classics routes & express.Router()
+* routes with express.Router()
 * freaky simple authentication
 * models with knex.js & bookshelf.js modules
 * postgresql as db
